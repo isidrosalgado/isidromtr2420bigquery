@@ -13,5 +13,5 @@ persist_with: isidromtr2420bigquery_default_datagroup
 
 
 explore: users {}
-
+explore: orders {}
 explore: pdt {}
